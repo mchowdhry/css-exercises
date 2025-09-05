@@ -1,0 +1,19 @@
+.odd {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.adjust-font-size {
+      font-size: 24px;
+}
+
+#TwoID {
+    color: blue;
+    font-size: 36px;
+}
+
+#FourID {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
